@@ -8,3 +8,6 @@ Features of java 8
 6) static method in interface
 7) functional interface
 8) optional class
+
+
+![img.png](img.png)
